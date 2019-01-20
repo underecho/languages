@@ -135,3 +135,6 @@
 "DRAWGPX" = "Trazar ruta GPX";
 "STARTUPFOREVER" = "Inicio/Siempre";
 "COOLDOWN" = "Tiempo de espera";
+"FORCEDCOORDS" = "Forzar lista de coordenadas";
+"AUTORESUME" = "Auto reanudar GPX";
+"NESTS" = "Nidos";

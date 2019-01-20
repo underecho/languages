@@ -129,3 +129,6 @@
 "DRAWGPX" = "Draw GPX Route";
 "STARTUPFOREVER" = "Startup/Forever";
 "COOLDOWN" = "Cooldown Timer";
+"FORCEDCOORDS" = "Forced Coords List";
+"AUTORESUME" = "Auto Resume GPX";
+"NESTS" = "Nests";
