@@ -1,4 +1,4 @@
-"WELCOME" = "Välkommen till PokeGo++ 2.0!";
+﻿"WELCOME" = "Välkommen till PokeGo++ 2.0!";
 "MSG" = "Vi hoppas att du tycker om detta tweak!\n\nFör uppdateringar och mer information om hur man använder det här tweaket har vi guider på vår Discord och Reddit.\nVa säker på att du laddat ner detta tweaket direkt från oss!\n\nOm du tycker om att använda detta tweaket, vänligen överväg att stödja oss för att förbättra tweaket och hålla det uppdaterat!";
 "WALKING" = "Gående";
 "RUNNING" = "Springande";
@@ -110,3 +110,21 @@
 "GENERATEGPX" = "Generate GPX";
 "SECONDARY" = "Secondary Device";
 "SECONDARYMSG" = "Are you activating a second device? (Tier 2 License Required)";
+"HELP" = "HELP";
+"NEEDHELP" = "Need Help?";
+"ASIAFIX" = "Asia Patreon Fix";
+"HOSTMAP" = "Host you own Map";
+"ENABLEWORKER" = "Enable Worker Mode";
+"SENDPROTOS" = "Send Raw Protos";
+"FREQUENCY" = "Frequency (Seconds)";
+"ENABLEFETCH" = "Enable Location Fetch";
+"COORDSGEN" = "Coords Generator";
+"POKEMON" = "Pokemon";
+"RAIDS" = "Raids";
+"QUESTS" = "Quests";
+"YES" = "Yes";
+"NO" = "No";
+"AUTOGENERATE" = "Auto Generate";
+"DRAWGPX" = "Draw GPX Route";
+"STARTUPFOREVER" = "Startup/Forever";
+"COOLDOWN" = "Cooldown Timer";

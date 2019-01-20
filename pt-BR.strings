@@ -1,4 +1,4 @@
-"HEY_THERE_ALERT" = "Olá!";
+﻿"HEY_THERE_ALERT" = "Olá!";
 "NO_THANKS_ALERT" = "Não, obrigado.";
 "TWEET_TO_REMOVE_ADS" = "Tweetar irá remover propagandas em seu YT++ por 1 semana e meia. Você pode tweetar de GRAÇA toda semana. Obrigado pelo suporte!";
 "MISSING_INFORMATION" = "Faltando Informações!";
@@ -117,3 +117,21 @@
 "GENERATEGPX" = "Gerar GPX";
 "SECONDARY" = "Aparelho Secundário";
 "SECONDARYMSG" = "Vocês está ativando um segundo aparelho? (Licença Tier 2 Requerida)";
+"HELP" = "HELP";
+"NEEDHELP" = "Need Help?";
+"ASIAFIX" = "Asia Patreon Fix";
+"HOSTMAP" = "Host you own Map";
+"ENABLEWORKER" = "Enable Worker Mode";
+"SENDPROTOS" = "Send Raw Protos";
+"FREQUENCY" = "Frequency (Seconds)";
+"ENABLEFETCH" = "Enable Location Fetch";
+"COORDSGEN" = "Coords Generator";
+"POKEMON" = "Pokemon";
+"RAIDS" = "Raids";
+"QUESTS" = "Quests";
+"YES" = "Yes";
+"NO" = "No";
+"AUTOGENERATE" = "Auto Generate";
+"DRAWGPX" = "Draw GPX Route";
+"STARTUPFOREVER" = "Startup/Forever";
+"COOLDOWN" = "Cooldown Timer";
