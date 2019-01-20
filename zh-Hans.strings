@@ -117,7 +117,7 @@
 "ASIAFIX" = "亚洲Patreon修复";
 "HOSTMAP" = "主办您自己的地图";
 "ENABLEWORKER" = "启用工作者模式";
-"SENDPROTOS" = "Send Raw Protos";
+"SENDPROTOS" = "发送原始数据";
 "FREQUENCY" = "频率(秒)";
 "ENABLEFETCH" = "启用地点取得";
 "COORDSGEN" = "坐标创造器";
