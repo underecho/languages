@@ -130,3 +130,6 @@
 "DRAWGPX" = "画GPX路线图";
 "STARTUPFOREVER" = "启动/永远";
 "COOLDOWN" = "冷却时间表";
+"FORCEDCOORDS" = "Forced Coords List";
+"AUTORESUME" = "Auto Resume GPX";
+"NESTS" = "Nests";
