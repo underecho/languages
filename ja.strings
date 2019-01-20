@@ -1,4 +1,4 @@
-"WALKING" = "歩く";
+﻿"WALKING" = "歩く";
 "RUNNING" = "走る";
 "BIKING" = "自転車";
 "DRIVING" = "自動車";
@@ -32,7 +32,7 @@
 "SAVEFAKEDESC" = "指定された時間内はアプリを閉じた後も位置情報を保存します。";
 "SHOWCOORDS" = "座標確認ボタン表示";
 "SHOWCOORDSDESC" = "MAP内に座標確認ボタンを表示します。";
-"URL" = "";
+"URL" = "URL";
 "COORDSSERVER" = "座標リストURL";
 "COORDSSERVERDESC" = "スナイプ用のポケモン座標リストのURLをhttp://から入力して下さい。";
 "CONTACTUS" = "オフィシャル";
@@ -109,3 +109,21 @@
 "GENERATEGPX" = "Generate GPX";
 "SECONDARY" = "Secondary Device";
 "SECONDARYMSG" = "Are you activating a second device? (Tier 2 License Required)";
+"HELP" = "HELP";
+"NEEDHELP" = "Need Help?";
+"ASIAFIX" = "Asia Patreon Fix";
+"HOSTMAP" = "Host you own Map";
+"ENABLEWORKER" = "Enable Worker Mode";
+"SENDPROTOS" = "Send Raw Protos";
+"FREQUENCY" = "Frequency (Seconds)";
+"ENABLEFETCH" = "Enable Location Fetch";
+"COORDSGEN" = "Coords Generator";
+"POKEMON" = "Pokemon";
+"RAIDS" = "Raids";
+"QUESTS" = "Quests";
+"YES" = "Yes";
+"NO" = "No";
+"AUTOGENERATE" = "Auto Generate";
+"DRAWGPX" = "Draw GPX Route";
+"STARTUPFOREVER" = "Startup/Forever";
+"COOLDOWN" = "Cooldown Timer";

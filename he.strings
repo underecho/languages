@@ -1,4 +1,4 @@
-"WELCOME" = "ברוכים הבאים ל - PokeGo++ 2.0!";
+﻿"WELCOME" = "ברוכים הבאים ל - PokeGo++ 2.0!";
 "MSG" = "אנחנו מקווים שאתם נהנים להשתמש בטוויק!\n\nלעדכונים ומידע נוסף לגבי השימוש בטוויק, היכנסו למדריכים ב Discord וב Reddit.\nנא לוודא שהטוויק הגיע ממקורותינו בלבד!\n\nבמידה ונהניתם להשתמש בטוויק, אנא שקלו לתרום לפיתוח הטוויק ולעדכונים הבאים!";
 "WALKING" = "הליכה";
 "RUNNING" = "ריצה";
@@ -111,3 +111,21 @@
 "GENERATEGPX" = "Generate GPX";
 "SECONDARY" = "Secondary Device";
 "SECONDARYMSG" = "Are you activating a second device? (Tier 2 License Required)";
+"HELP" = "HELP";
+"NEEDHELP" = "Need Help?";
+"ASIAFIX" = "Asia Patreon Fix";
+"HOSTMAP" = "Host you own Map";
+"ENABLEWORKER" = "Enable Worker Mode";
+"SENDPROTOS" = "Send Raw Protos";
+"FREQUENCY" = "Frequency (Seconds)";
+"ENABLEFETCH" = "Enable Location Fetch";
+"COORDSGEN" = "Coords Generator";
+"POKEMON" = "Pokemon";
+"RAIDS" = "Raids";
+"QUESTS" = "Quests";
+"YES" = "Yes";
+"NO" = "No";
+"AUTOGENERATE" = "Auto Generate";
+"DRAWGPX" = "Draw GPX Route";
+"STARTUPFOREVER" = "Startup/Forever";
+"COOLDOWN" = "Cooldown Timer";
