@@ -1,4 +1,4 @@
-﻿"HEY_THERE_ALERT" = "Olá!";
+"HEY_THERE_ALERT" = "Olá!";
 "NO_THANKS_ALERT" = "Não, obrigado.";
 "TWEET_TO_REMOVE_ADS" = "Tweetar irá remover propagandas em seu YT++ por 1 semana e meia. Você pode tweetar de GRAÇA toda semana. Obrigado pelo suporte!";
 "MISSING_INFORMATION" = "Faltando Informações!";
@@ -42,7 +42,7 @@
 "SHOWCOORDSDESC" = "Habilita botão de coordenadas no mapa. Se clicado, uma janela irá abrir exibindo as coordenadas da sua localização atual. Coordenadas podem ser copiadas. ";
 "URL" = "URL:";
 "COORDSSERVER" = "Lista de coordenadas do servidor";
-"COORDSSERVERDESC" = "Opcional: Insira a URL complete de um servidor de coordenadas. Pode ser um endereço público ou privado. Se preenchido, irá recuperar a lista de coordenadas armazenadas em um arquivo \”coords.txt\” acessível na URL introduzida. Essas coordenadas serão preenchidas na lista de coordenadas quando usar o recurso Snipe.";
+"COORDSSERVERDESC" = "Opcional: Insira a URL completa de um servidor de coordenadas. Pode ser um endereço público ou privado. Se preenchido, irá recuperar a lista de coordenadas armazenadas em um arquivo \”coords.txt\” acessível na URL introduzida. Essas coordenadas serão preenchidas na lista de coordenadas quando usar o recurso Snipe.";
 "CONTACTUS" = "Contate-nos";
 "REDDIT" = "Reddit oficial";
 "DISCORD" = "Discord oficial";
